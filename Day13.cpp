@@ -22,5 +22,9 @@ for large numbers modulo gives 0.
 
 Binary Exponential:
 
+To find 2^10000 -> we need to run loop 10000 time so time
+complexity is O(power) so for n numbers we need TC of O(n*n).
+Using binary exp. we can do in logn for 1 number.
+
 
 */
